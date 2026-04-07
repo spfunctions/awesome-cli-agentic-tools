@@ -133,6 +133,14 @@ The deepest collection of prediction market CLIs, SDKs, and agent frameworks on 
 
 SQL engines, CSV toolkits, and data transformation CLIs for agentic BI workflows.
 
+### By Sparkco
+
+| Tool | Description | Install | Language |
+|------|-------------|---------|----------|
+| [@spfunctions/bi](https://github.com/spfunctions/bi) | Agent-friendly BI CLI. Query CSV/JSON/Parquet with SQL via DuckDB. 4 commands: `head`, `schema`, `query`, `convert`. | `npm i -g @spfunctions/bi` | TypeScript |
+
+### Community
+
 | Tool | Stars | Description | Install | Language |
 |---|---|---|---|---|
 | [DuckDB](https://github.com/duckdb/duckdb) | 28k | In-process SQL OLAP database. Parquet, CSV, JSON out of the box. | `brew install duckdb` | C++ |
