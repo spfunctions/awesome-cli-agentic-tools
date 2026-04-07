@@ -16,6 +16,7 @@ Browse the full directory at [sparkco.ai](https://sparkco.ai).
 - [Browser Agents](#browser-agents)
 - [Developer CLIs](#developer-clis)
 - [Operations CLIs](#operations-clis)
+- [BI & Data CLI Tools](#bi--data-cli-tools)
 - [Why CLI?](#why-cli)
 - [Contributing](#contributing)
 
@@ -125,6 +126,26 @@ The deepest collection of prediction market CLIs, SDKs, and agent frameworks on 
 | [gogcli](https://github.com/gog/gogcli) | 6.7k | Google Workspace CLI — Docs, Sheets, Drive, Calendar. | `brew install gogcli` | Go |
 | [hledger](https://github.com/simonmichael/hledger) | 4.4k | Plain text double-entry accounting. Scriptable, composable. | `brew install hledger` | Haskell |
 | [crm-cli](https://github.com/crm-cli/crm-cli) | 72 | CLI customer relationship management. Contacts, deals, notes. | `pip install crm-cli` | Python |
+
+---
+
+## BI & Data CLI Tools
+
+SQL engines, CSV toolkits, and data transformation CLIs for agentic BI workflows.
+
+| Tool | Stars | Description | Install | Language |
+|---|---|---|---|---|
+| [DuckDB](https://github.com/duckdb/duckdb) | 28k | In-process SQL OLAP database. Parquet, CSV, JSON out of the box. | `brew install duckdb` | C++ |
+| [pgcli](https://github.com/dbcli/pgcli) | 12k | Postgres CLI with auto-complete and syntax highlighting. | `pip install pgcli` | Python |
+| [xsv](https://github.com/BurntSushi/xsv) | 10k | Fast CSV toolkit. Index, search, split, join, stats. | `cargo install xsv` | Rust |
+| [dbt](https://github.com/dbt-labs/dbt-core) | 10k | SQL-first data transformation framework. ELT best practices. | `pip install dbt-core` | Python |
+| [Datasette](https://github.com/simonw/datasette) | 9.5k | Instant JSON API and web UI for any SQLite database. | `pip install datasette` | Python |
+| [Miller (mlr)](https://github.com/johnkerl/miller) | 9k | Like awk, sed, cut for CSV, TSV, and JSON. Stream processing. | `brew install miller` | Go |
+| [usql](https://github.com/xo/usql) | 9k | Universal SQL CLI. Postgres, MySQL, SQLite, DuckDB, 40+ drivers. | `go install github.com/xo/usql@latest` | Go |
+| [VisiData](https://github.com/saulpw/visidata) | 8k | Terminal spreadsheet multitool. Explore, sort, filter, pivot. | `pip install visidata` | Python |
+| [csvkit](https://github.com/wireservice/csvkit) | 6k | Suite of CLI tools for converting to and working with CSV. | `pip install csvkit` | Python |
+| [OctoSQL](https://github.com/cube2222/octosql) | 5k | Query CSV, JSON, Parquet, MySQL, Postgres with a single SQL. | `go install github.com/cube2222/octosql/cmd/octosql@latest` | Go |
+| [sqlite-utils](https://github.com/simonw/sqlite-utils) | 2k | CLI for manipulating SQLite. Insert, transform, query, extract. | `pip install sqlite-utils` | Python |
 
 ---
 
