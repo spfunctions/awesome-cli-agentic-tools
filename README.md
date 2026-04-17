@@ -93,6 +93,7 @@ The deepest collection of prediction market CLIs, SDKs, and agent frameworks on 
 | [Cline](https://github.com/cline/cline) | 30k | VS Code extension with terminal access. Autonomous coding. | `code --install-extension saoudrizwan.claude-dev` | TypeScript |
 | [Aider](https://github.com/paul-gauthier/aider) | 25k | Git-aware AI pair programmer in your terminal. | `pip install aider-chat` | Python |
 | [SWE-Agent](https://github.com/princeton-nlp/SWE-agent) | 15k | Resolves real GitHub issues autonomously. | `pip install swe-agent` | Python |
+| [toprank](https://github.com/nowork-studio/toprank) | 107 | Claude Code plugin with 9 SEO and Google Ads skills. Audits GSC/PageSpeed/Ads API, ships meta tag and schema fixes to source or CMS. | `/plugin marketplace add nowork-studio/toprank` | Python |
 
 ---
 
