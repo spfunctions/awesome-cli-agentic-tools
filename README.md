@@ -117,6 +117,7 @@ The deepest collection of prediction market CLIs, SDKs, and agent frameworks on 
 | [ElevenLabs CLI](https://github.com/elevenlabs/elevenlabs-python) | 2k | TTS, STT, voice cloning, and audio generation. | `pip install elevenlabs` | Python |
 | [Supabase CLI](https://github.com/supabase/cli) | 1k | Database, Auth, Storage, and Edge Functions management. | `brew install supabase/tap/supabase` | Go |
 | [AgentMail CLI](https://github.com/agentmail-toolkit/agentmail) | — | Email inboxes and transactional email for AI agents. | `pip install agentmail` | Python |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | 3 | Local TUI for AI coding-agent session logs: tokens, cost, tool failures, latency, health, diffs, and CI gates. | `brew install luoyuctl/tap/agenttrace` | Go |
 
 ---
 
